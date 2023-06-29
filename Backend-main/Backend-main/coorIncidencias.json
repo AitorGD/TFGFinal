@@ -1,0 +1,2305 @@
+[{ 
+  "Longitud" : "-3.3159544" ,
+  "Latitud" : "36.81707" ,
+  "Time" : "2023-02-14T10:33:37.821Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.1337349" ,
+  "Latitud" : "39.937027" ,
+  "Time" : "Wed Feb 15 08:33:23 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.2409196" ,
+  "Latitud" : "36.754124" ,
+  "Time" : "Wed Feb 15 08:00:13 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.06417" ,
+  "Latitud" : "36.74751" ,
+  "Time" : "Wed Feb 15 07:43:44 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "0.1755845" ,
+  "Latitud" : "40.223656" ,
+  "Time" : "Wed Feb 15 07:43:44 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.07843" ,
+  "Latitud" : "43.22137" ,
+  "Time" : "Wed Feb 15 00:06:46 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.624735" ,
+  "Latitud" : "42.165695" ,
+  "Time" : "2023-01-25T08:42:00.729Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.00842" ,
+  "Latitud" : "40.120968" ,
+  "Time" : "2023-01-17T11:21:12.358Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.1336515" ,
+  "Latitud" : "41.971233" ,
+  "Time" : "2023-02-14T10:30:09.607Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.6071494" ,
+  "Latitud" : "37.643818" ,
+  "Time" : "2023-02-15T07:50:31.671Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.8762426" ,
+  "Latitud" : "42.644867" ,
+  "Time" : "2023-01-05T21:29:40.135Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.4918559" ,
+  "Latitud" : "39.439255" ,
+  "Time" : "2023-02-15T07:19:22.322Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.097286" ,
+  "Latitud" : "43.242092" ,
+  "Time" : "Tue Feb 14 11:43:32 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.0935597" ,
+  "Latitud" : "37.589252" ,
+  "Time" : "Tue Feb 14 11:43:32 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.774398" ,
+  "Latitud" : "43.353992" ,
+  "Time" : "2023-02-15T06:40:28.225Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.9465563" ,
+  "Latitud" : "39.911957" ,
+  "Time" : "Wed Feb 15 08:40:09 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.8671966" ,
+  "Latitud" : "43.54805" ,
+  "Time" : "Wed Feb 15 08:40:09 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.246001" ,
+  "Latitud" : "43.300827" ,
+  "Time" : "Tue Feb 14 08:12:53 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.2104053" ,
+  "Latitud" : "40.801342" ,
+  "Time" : "Wed Feb 15 08:30:24 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.3390267" ,
+  "Latitud" : "40.652023" ,
+  "Time" : "Wed Feb 15 08:30:24 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.58423" ,
+  "Latitud" : "42.53462" ,
+  "Time" : "2023-02-15T07:30:09.752Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.3926525" ,
+  "Latitud" : "42.751705" ,
+  "Time" : "Wed Feb 15 08:01:27 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.92643" ,
+  "Latitud" : "39.92166" ,
+  "Time" : "Tue Feb 14 08:31:36 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.620154" ,
+  "Latitud" : "36.557655" ,
+  "Time" : "2023-02-15T07:21:45.235Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.8501024" ,
+  "Latitud" : "42.933834" ,
+  "Time" : "Wed Feb 15 08:44:41 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.7821455" ,
+  "Latitud" : "40.47382" ,
+  "Time" : "Wed Feb 15 08:30:15 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.11841" ,
+  "Latitud" : "42.61571" ,
+  "Time" : "2023-02-15T07:03:29.377Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.35643" ,
+  "Latitud" : "43.44059" ,
+  "Time" : "Tue Feb 14 08:22:59 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.7215133" ,
+  "Latitud" : "42.46174" ,
+  "Time" : "Wed Feb 15 08:00:34 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-2.2155519" ,
+  "Latitud" : "39.401646" ,
+  "Time" : "2023-02-14T06:31:22.956Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.347644" ,
+  "Latitud" : "43.641373" ,
+  "Time" : "2023-02-14T08:13:08.821Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.730857" ,
+  "Latitud" : "42.589214" ,
+  "Time" : "2022-10-17T14:02:42.018Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.3772361" ,
+  "Latitud" : "39.107285" ,
+  "Time" : "2023-02-14T07:04:48.569Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.764755" ,
+  "Latitud" : "41.540283" ,
+  "Time" : "Wed Feb 15 08:45:26 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.598448" ,
+  "Latitud" : "42.53913" ,
+  "Time" : "Wed Feb 15 08:45:26 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.1815865" ,
+  "Latitud" : "40.409775" ,
+  "Time" : "2023-02-15T07:38:28.787Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.457147" ,
+  "Latitud" : "42.499004" ,
+  "Time" : "Wed Feb 15 08:03:36 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.9761815" ,
+  "Latitud" : "43.372433" ,
+  "Time" : "Wed Feb 15 08:03:36 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.810972" ,
+  "Latitud" : "37.568123" ,
+  "Time" : "Tue Feb 14 23:24:12 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.141849" ,
+  "Latitud" : "40.628" ,
+  "Time" : "Wed Feb 15 08:40:15 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.4797088" ,
+  "Latitud" : "38.312103" ,
+  "Time" : "Tue Feb 14 08:20:45 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.416978" ,
+  "Latitud" : "42.855736" ,
+  "Time" : "Tue Feb 14 08:20:45 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.3595207" ,
+  "Latitud" : "40.429234" ,
+  "Time" : "Wed Feb 15 08:31:19 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.43589" ,
+  "Latitud" : "37.13274" ,
+  "Time" : "Wed Feb 15 08:24:30 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.0638776" ,
+  "Latitud" : "43.519566" ,
+  "Time" : "Wed Feb 15 08:24:30 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.5323625" ,
+  "Latitud" : "43.493168" ,
+  "Time" : "Wed Feb 15 08:42:23 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.17407" ,
+  "Latitud" : "40.43757" ,
+  "Time" : "Wed Feb 15 08:00:39 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.7467701" ,
+  "Latitud" : "42.304432" ,
+  "Time" : "Wed Feb 15 08:00:39 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.6482332" ,
+  "Latitud" : "40.39973" ,
+  "Time" : "2023-02-14T07:04:59.569Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.54509" ,
+  "Latitud" : "43.265026" ,
+  "Time" : "2023-02-15T07:53:27.708Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.671837" ,
+  "Latitud" : "41.911205" ,
+  "Time" : "Tue Feb 14 09:13:02 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "0.1925858" ,
+  "Latitud" : "40.464485" ,
+  "Time" : "2023-02-15T06:15:04.915Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.13496" ,
+  "Latitud" : "39.91926" ,
+  "Time" : "2023-02-14T07:22:59.252Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5276773" ,
+  "Latitud" : "38.356915" ,
+  "Time" : "2023-02-15T07:43:20.829Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.846197" ,
+  "Latitud" : "43.430347" ,
+  "Time" : "Wed Feb 15 08:04:01 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.75495" ,
+  "Latitud" : "42.28457" ,
+  "Time" : "2023-02-15T00:41:52.164Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.7593842" ,
+  "Latitud" : "42.303574" ,
+  "Time" : "2023-02-15T07:01:34.354Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.826355" ,
+  "Latitud" : "43.05099" ,
+  "Time" : "2023-02-14T23:06:46.692Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.504525" ,
+  "Latitud" : "38.400578" ,
+  "Time" : "Wed Feb 15 07:43:41 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.7583256" ,
+  "Latitud" : "43.366604" ,
+  "Time" : "2023-02-14T08:13:02.821Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-2.398775" ,
+  "Latitud" : "41.04618" ,
+  "Time" : "Tue Feb 14 16:00:21 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.6319933" ,
+  "Latitud" : "40.749073" ,
+  "Time" : "2023-02-14T06:41:47.327Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.48145" ,
+  "Latitud" : "40.44535" ,
+  "Time" : "Tue Feb 14 09:13:12 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.2422514" ,
+  "Latitud" : "40.34257" ,
+  "Time" : "Fri Jan 13 16:11:38 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.2763956" ,
+  "Latitud" : "43.398136" ,
+  "Time" : "2023-02-14T14:09:53.101Z" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-8.472391" ,
+  "Latitud" : "42.69022" ,
+  "Time" : "2023-02-15T07:31:16.734Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.3926525" ,
+  "Latitud" : "42.751705" ,
+  "Time" : "Tue Feb 14 08:05:17 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.580024" ,
+  "Latitud" : "43.231995" ,
+  "Time" : "2023-02-15T06:43:41.71Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.43499" ,
+  "Latitud" : "40.78861" ,
+  "Time" : "2023-02-15T07:27:58.104Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.1911647" ,
+  "Latitud" : "40.421993" ,
+  "Time" : "2023-02-15T07:30:15.586Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.633512" ,
+  "Latitud" : "40.729156" ,
+  "Time" : "Wed Feb 15 00:42:21 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.2414482" ,
+  "Latitud" : "40.33859" ,
+  "Time" : "Wed Feb 15 08:30:21 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-17.824738" ,
+  "Latitud" : "28.82285" ,
+  "Time" : "Wed Feb 15 08:36:00 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.397098" ,
+  "Latitud" : "42.753136" ,
+  "Time" : "Wed Feb 15 08:36:00 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.4285362" ,
+  "Latitud" : "36.70087" ,
+  "Time" : "2023-02-15T07:43:28.733Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.65452" ,
+  "Latitud" : "42.2166" ,
+  "Time" : "Wed Feb 15 08:31:12 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.729272" ,
+  "Latitud" : "42.59352" ,
+  "Time" : "2023-02-15T06:09:10.146Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.10722" ,
+  "Latitud" : "43.409714" ,
+  "Time" : "2023-02-14T06:41:44.327Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "0.0727299" ,
+  "Latitud" : "40.202824" ,
+  "Time" : "Tue Feb 14 08:27:05 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.0711591" ,
+  "Latitud" : "40.712364" ,
+  "Time" : "Tue Feb 14 08:27:05 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.710374" ,
+  "Latitud" : "42.510002" ,
+  "Time" : "Wed Feb 15 08:36:03 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.8490934" ,
+  "Latitud" : "42.53862" ,
+  "Time" : "2023-02-14T07:38:30.848Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.66071" ,
+  "Latitud" : "40.910915" ,
+  "Time" : "Wed Jan 18 00:51:46 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.741675" ,
+  "Latitud" : "42.83635" ,
+  "Time" : "2023-02-15T06:51:43.344Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.14923" ,
+  "Latitud" : "40.26611" ,
+  "Time" : "2023-02-15T07:40:15.638Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.8836184" ,
+  "Latitud" : "43.552383" ,
+  "Time" : "2023-02-15T07:45:26.676Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.9781413" ,
+  "Latitud" : "43.504684" ,
+  "Time" : "Thu Jan 19 10:24:54 CET 2023" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-8.332769" ,
+  "Latitud" : "42.1808" ,
+  "Time" : "2023-02-14T07:12:49.047Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "0.3334398" ,
+  "Latitud" : "40.458817" ,
+  "Time" : "2023-01-17T01:14:36.341Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.743418" ,
+  "Latitud" : "42.838993" ,
+  "Time" : "2023-02-15T07:02:42.306Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.6611795" ,
+  "Latitud" : "40.89071" ,
+  "Time" : "Wed Feb 15 08:01:17 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.212824" ,
+  "Latitud" : "42.33833" ,
+  "Time" : "Tue Feb 14 15:25:20 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.728163" ,
+  "Latitud" : "41.933887" ,
+  "Time" : "2023-02-14T07:14:05.821Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.6030013" ,
+  "Latitud" : "38.2895" ,
+  "Time" : "Tue Feb 14 23:00:09 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.3824974" ,
+  "Latitud" : "37.57683" ,
+  "Time" : "Tue Feb 14 15:09:10 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.48439" ,
+  "Latitud" : "43.39747" ,
+  "Time" : "2023-02-15T07:50:13.695Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.9970677" ,
+  "Latitud" : "40.407467" ,
+  "Time" : "Tue Feb 14 10:10:17 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.09505" ,
+  "Latitud" : "40.65785" ,
+  "Time" : "Tue Feb 14 08:32:10 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.9834895" ,
+  "Latitud" : "37.191803" ,
+  "Time" : "Tue Feb 14 08:32:10 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.7385724" ,
+  "Latitud" : "40.946968" ,
+  "Time" : "Wed Feb 15 08:31:16 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.470982" ,
+  "Latitud" : "42.458218" ,
+  "Time" : "Wed Feb 15 08:31:16 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.468262" ,
+  "Latitud" : "42.18095" ,
+  "Time" : "2023-02-15T07:36:41.016Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.848803" ,
+  "Latitud" : "42.539036" ,
+  "Time" : "2023-02-15T07:31:24.608Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.7084913" ,
+  "Latitud" : "36.70572" ,
+  "Time" : "Tue Feb 14 11:33:34 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.120956" ,
+  "Latitud" : "40.374672" ,
+  "Time" : "Wed Feb 15 08:10:39 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.44674" ,
+  "Latitud" : "42.45786" ,
+  "Time" : "Wed Feb 15 08:10:39 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.8823776" ,
+  "Latitud" : "39.90085" ,
+  "Time" : "Wed Feb 15 08:33:20 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.877438" ,
+  "Latitud" : "39.90326" ,
+  "Time" : "2023-02-07T19:39:31.731Z" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-0.1399872" ,
+  "Latitud" : "38.923466" ,
+  "Time" : "2023-02-15T07:54:57.239Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.2679083" ,
+  "Latitud" : "36.972805" ,
+  "Time" : "2023-02-15T07:01:00.879Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "0.1471656" ,
+  "Latitud" : "40.38605" ,
+  "Time" : "2023-02-14T11:36:49.741Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.4230576" ,
+  "Latitud" : "39.245777" ,
+  "Time" : "2023-02-15T07:35:45.099Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.301072" ,
+  "Latitud" : "43.321312" ,
+  "Time" : "Tue Feb 14 08:20:06 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.2409196" ,
+  "Latitud" : "36.754124" ,
+  "Time" : "Tue Feb 14 08:14:05 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.53272" ,
+  "Latitud" : "42.811302" ,
+  "Time" : "Tue Feb 14 08:38:30 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.76851" ,
+  "Latitud" : "43.387875" ,
+  "Time" : "2023-02-14T14:12:26.187Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.7430954" ,
+  "Latitud" : "41.826565" ,
+  "Time" : "Tue Feb 14 11:24:54 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.954715" ,
+  "Latitud" : "42.33039" ,
+  "Time" : "Tue Feb 14 11:24:54 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.5947213" ,
+  "Latitud" : "42.52552" ,
+  "Time" : "2023-02-15T07:24:26.264Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.2414482" ,
+  "Latitud" : "40.33859" ,
+  "Time" : "2023-02-15T07:25:24.368Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.71051" ,
+  "Latitud" : "40.943382" ,
+  "Time" : "2023-02-14T07:31:03.119Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.84247" ,
+  "Latitud" : "42.49521" ,
+  "Time" : "2023-02-14T21:18:18.843Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.244412" ,
+  "Latitud" : "40.7309" ,
+  "Time" : "2023-02-15T07:50:14.651Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.568576" ,
+  "Latitud" : "40.577824" ,
+  "Time" : "Tue Feb 14 05:30:08 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.5889043" ,
+  "Latitud" : "37.715183" ,
+  "Time" : "2023-02-15T06:09:13.146Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.83576" ,
+  "Latitud" : "42.68513" ,
+  "Time" : "2023-01-22T22:33:39.527Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.507374" ,
+  "Latitud" : "39.41607" ,
+  "Time" : "2023-01-24T16:03:05.594Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.732559" ,
+  "Latitud" : "42.49809" ,
+  "Time" : "2023-02-14T07:14:08.821Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.6020554" ,
+  "Latitud" : "38.48384" ,
+  "Time" : "2023-02-15T07:36:10.905Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.58423" ,
+  "Latitud" : "42.53462" ,
+  "Time" : "2023-02-15T07:10:35.151Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.7213573" ,
+  "Latitud" : "42.46256" ,
+  "Time" : "Tue Feb 14 08:38:35 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "0.1048369" ,
+  "Latitud" : "42.515347" ,
+  "Time" : "Wed Feb 15 08:14:46 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.737715" ,
+  "Latitud" : "42.841003" ,
+  "Time" : "Wed Feb 15 08:14:46 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.423" ,
+  "Latitud" : "40.68099" ,
+  "Time" : "Tue Jan 17 12:21:12 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.3222127" ,
+  "Latitud" : "40.20935" ,
+  "Time" : "Wed Feb 15 08:15:26 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-2.4663513" ,
+  "Latitud" : "41.38217" ,
+  "Time" : "Tue Feb 14 11:30:09 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.0491877" ,
+  "Latitud" : "37.175674" ,
+  "Time" : "Tue Feb 14 14:20:16 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.4630913" ,
+  "Latitud" : "38.297394" ,
+  "Time" : "Fri Feb 10 09:58:13 CET 2023" ,
+  "Type" : "WeatherRelatedRoadConditions" ,
+  "Ocurrencia" : "ice"
+},{ 
+  "Longitud" : "-3.6738675" ,
+  "Latitud" : "37.09523" ,
+  "Time" : "Wed Feb 15 08:02:54 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.4948382" ,
+  "Latitud" : "37.510513" ,
+  "Time" : "2023-02-15T06:53:49.477Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "0.1048369" ,
+  "Latitud" : "42.515347" ,
+  "Time" : "Wed Feb 15 08:56:06 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.91491" ,
+  "Latitud" : "43.33791" ,
+  "Time" : "Tue Feb 14 08:37:02 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.801447" ,
+  "Latitud" : "43.3945" ,
+  "Time" : "Wed Feb 15 08:00:56 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.793855" ,
+  "Latitud" : "42.78544" ,
+  "Time" : "2023-01-13T15:11:38.212Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-2.4676151" ,
+  "Latitud" : "41.373295" ,
+  "Time" : "Wed Feb 15 08:30:10 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.91607" ,
+  "Latitud" : "38.94609" ,
+  "Time" : "Wed Feb 15 08:30:10 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.3126662" ,
+  "Latitud" : "36.940964" ,
+  "Time" : "2023-02-14T07:35:12.733Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.3595207" ,
+  "Latitud" : "40.429234" ,
+  "Time" : "2023-02-14T07:04:24.569Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.521125" ,
+  "Latitud" : "38.368565" ,
+  "Time" : "Tue Feb 14 08:56:07 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.0297313" ,
+  "Latitud" : "37.113155" ,
+  "Time" : "Tue Feb 14 08:56:07 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.431754" ,
+  "Latitud" : "40.787518" ,
+  "Time" : "Tue Feb 14 09:07:27 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.670048" ,
+  "Latitud" : "37.28774" ,
+  "Time" : "Wed Feb 15 08:00:00 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-2.3917203" ,
+  "Latitud" : "39.685585" ,
+  "Time" : "2023-02-15T07:24:30.264Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.65452" ,
+  "Latitud" : "42.2166" ,
+  "Time" : "Wed Feb 15 08:44:47 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.323871" ,
+  "Latitud" : "43.3009" ,
+  "Time" : "2022-05-16T05:29:00.698Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-2.152035" ,
+  "Latitud" : "39.215195" ,
+  "Time" : "2023-02-15T07:33:08.647Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.677413" ,
+  "Latitud" : "38.615242" ,
+  "Time" : "Wed Feb 15 08:35:45 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.087354" ,
+  "Latitud" : "43.521366" ,
+  "Time" : "2023-02-14T14:09:38.101Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.301806" ,
+  "Latitud" : "43.33814" ,
+  "Time" : "Wed Feb 15 07:09:13 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.9558203" ,
+  "Latitud" : "39.906662" ,
+  "Time" : "Wed Feb 15 08:30:09 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.5046589" ,
+  "Latitud" : "37.500645" ,
+  "Time" : "Wed Feb 15 08:26:49 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.625797" ,
+  "Latitud" : "42.157177" ,
+  "Time" : "2023-02-15T07:11:32.172Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "0.1586573" ,
+  "Latitud" : "40.165802" ,
+  "Time" : "2023-02-14T15:00:21.776Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.398353" ,
+  "Latitud" : "42.75343" ,
+  "Time" : "2023-02-15T07:01:22.073Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.5933213" ,
+  "Latitud" : "40.953003" ,
+  "Time" : "2023-02-14T07:17:34.886Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.0736616" ,
+  "Latitud" : "36.993927" ,
+  "Time" : "Wed Feb 15 07:47:44 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.015363" ,
+  "Latitud" : "42.72203" ,
+  "Time" : "Tue Feb 14 08:08:23 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.4288855" ,
+  "Latitud" : "37.11676" ,
+  "Time" : "Wed Feb 15 07:53:49 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.8367743" ,
+  "Latitud" : "42.372124" ,
+  "Time" : "Wed Feb 15 07:53:49 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.067182" ,
+  "Latitud" : "43.356182" ,
+  "Time" : "2023-02-15T07:00:39.879Z" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-0.4400167" ,
+  "Latitud" : "39.31565" ,
+  "Time" : "Wed Feb 15 07:05:22 CET 2023" ,
+  "Type" : "VehicleObstruction" ,
+  "Ocurrencia" : "vehicleOnFire"
+},{ 
+  "Longitud" : "-6.8189335" ,
+  "Latitud" : "42.447758" ,
+  "Time" : "Tue Feb 14 09:50:27 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.6566765" ,
+  "Latitud" : "41.608078" ,
+  "Time" : "Wed Feb 15 08:02:01 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.5877657" ,
+  "Latitud" : "36.716663" ,
+  "Time" : "2023-02-14T14:09:19.101Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.8885272" ,
+  "Latitud" : "40.39744" ,
+  "Time" : "Thu Dec 15 18:33:25 CET 2022" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.6738675" ,
+  "Latitud" : "37.09523" ,
+  "Time" : "Thu Dec 15 18:33:25 CET 2022" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-3.5207508" ,
+  "Latitud" : "36.73354" ,
+  "Time" : "2023-02-15T07:42:01.616Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.6048207" ,
+  "Latitud" : "37.366005" ,
+  "Time" : "Wed Feb 15 08:25:24 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.4730588" ,
+  "Latitud" : "37.53465" ,
+  "Time" : "2023-02-14T07:12:57.047Z" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-2.3944998" ,
+  "Latitud" : "39.710777" ,
+  "Time" : "Wed Feb 15 08:26:18 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.2462354" ,
+  "Latitud" : "40.43028" ,
+  "Time" : "Wed Feb 15 08:26:18 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.3278332" ,
+  "Latitud" : "36.93415" ,
+  "Time" : "Tue Feb 14 08:04:24 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.4581647" ,
+  "Latitud" : "42.49959" ,
+  "Time" : "Tue Oct 25 23:21:00 CEST 2022" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.13252" ,
+  "Latitud" : "40.37138" ,
+  "Time" : "Tue Oct 25 23:21:00 CEST 2022" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-3.9466822" ,
+  "Latitud" : "40.531487" ,
+  "Time" : "Wed Feb 15 08:33:27 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.0885873" ,
+  "Latitud" : "38.077427" ,
+  "Time" : "Wed Feb 15 08:33:27 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.957311" ,
+  "Latitud" : "41.023693" ,
+  "Time" : "2023-02-14T07:00:47.607Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.5933213" ,
+  "Latitud" : "40.953003" ,
+  "Time" : "Tue Feb 14 22:02:30 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.92643" ,
+  "Latitud" : "39.92166" ,
+  "Time" : "Tue Feb 14 15:09:38 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.188712" ,
+  "Latitud" : "43.386345" ,
+  "Time" : "Wed Feb 15 08:00:18 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.3669887" ,
+  "Latitud" : "38.592026" ,
+  "Time" : "2023-02-15T07:01:27.354Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.956224" ,
+  "Latitud" : "43.371643" ,
+  "Time" : "2023-02-15T07:44:47.718Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.937125" ,
+  "Latitud" : "36.51525" ,
+  "Time" : "2023-02-14T13:20:16.187Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.6331" ,
+  "Latitud" : "43.26803" ,
+  "Time" : "Wed Feb 15 08:01:34 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.578779" ,
+  "Latitud" : "36.711544" ,
+  "Time" : "Wed Feb 15 08:43:24 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.727237" ,
+  "Latitud" : "42.59774" ,
+  "Time" : "Wed Feb 15 08:01:37 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.535185" ,
+  "Latitud" : "43.270256" ,
+  "Time" : "Tue Feb 14 08:12:57 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.956059" ,
+  "Latitud" : "43.371826" ,
+  "Time" : "Wed Feb 15 08:12:10 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.4082856" ,
+  "Latitud" : "40.37981" ,
+  "Time" : "2023-02-14T07:20:06.362Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5775864" ,
+  "Latitud" : "40.880043" ,
+  "Time" : "2023-02-15T07:02:01.204Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.7028475" ,
+  "Latitud" : "41.51839" ,
+  "Time" : "Wed Feb 15 08:00:36 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.425291" ,
+  "Latitud" : "40.675133" ,
+  "Time" : "Wed Feb 15 08:24:26 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.626264" ,
+  "Latitud" : "42.55235" ,
+  "Time" : "Tue Feb 14 10:00:21 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.7926044" ,
+  "Latitud" : "38.845688" ,
+  "Time" : "Wed Feb 15 07:51:43 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.6415153" ,
+  "Latitud" : "41.594765" ,
+  "Time" : "2023-02-14T10:33:34.821Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.89149" ,
+  "Latitud" : "42.66781" ,
+  "Time" : "Tue Feb 14 15:12:26 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.621495" ,
+  "Latitud" : "37.340565" ,
+  "Time" : "2023-02-15T07:35:51.035Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.6249323" ,
+  "Latitud" : "42.58731" ,
+  "Time" : "2023-02-15T06:21:17.145Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.7514834" ,
+  "Latitud" : "38.130974" ,
+  "Time" : "Tue Feb 14 08:00:42 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.6362586" ,
+  "Latitud" : "42.582996" ,
+  "Time" : "2023-02-15T07:30:27.827Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.068885" ,
+  "Latitud" : "36.99802" ,
+  "Time" : "2023-02-14T09:10:17.199Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.69255" ,
+  "Latitud" : "36.71992" ,
+  "Time" : "2022-10-25T21:21:00.66Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.55162" ,
+  "Latitud" : "42.78776" ,
+  "Time" : "Wed Feb 15 08:32:07 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.7171845" ,
+  "Latitud" : "41.523174" ,
+  "Time" : "Wed Feb 15 08:32:07 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.8158946" ,
+  "Latitud" : "42.79055" ,
+  "Time" : "2023-02-15T07:02:36.306Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.5237117" ,
+  "Latitud" : "43.53448" ,
+  "Time" : "2023-02-15T06:43:44.71Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.718015" ,
+  "Latitud" : "41.526447" ,
+  "Time" : "2023-02-14T13:32:38.776Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.2322445" ,
+  "Latitud" : "41.52172" ,
+  "Time" : "2022-12-15T09:22:01.534Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.5485675" ,
+  "Latitud" : "39.448864" ,
+  "Time" : "Wed Feb 15 08:35:26 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.494893" ,
+  "Latitud" : "38.509647" ,
+  "Time" : "2023-02-15T00:10:45.075Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.170829" ,
+  "Latitud" : "36.753395" ,
+  "Time" : "2023-02-15T07:14:46.566Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.9650167" ,
+  "Latitud" : "38.12398" ,
+  "Time" : "Mon May 16 07:29:00 CEST 2022" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.41646" ,
+  "Latitud" : "42.78749" ,
+  "Time" : "Mon May 16 07:29:00 CEST 2022" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-3.8894937" ,
+  "Latitud" : "40.3991" ,
+  "Time" : "Tue Feb 14 18:20:05 CET 2023" ,
+  "Type" : "VehicleObstruction" ,
+  "Ocurrencia" : "vehicleOnFire"
+},{ 
+  "Longitud" : "-0.4400167" ,
+  "Latitud" : "39.31565" ,
+  "Time" : "Tue Feb 14 18:20:05 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5960245" ,
+  "Latitud" : "40.450047" ,
+  "Time" : "Tue Feb 14 08:04:51 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.660425" ,
+  "Latitud" : "37.265476" ,
+  "Time" : "2023-02-14T12:42:57.916Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.3462267" ,
+  "Latitud" : "40.667515" ,
+  "Time" : "2023-02-15T07:00:56.879Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.784499" ,
+  "Latitud" : "42.12467" ,
+  "Time" : "2023-02-14T06:31:20.956Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.8224874" ,
+  "Latitud" : "43.426052" ,
+  "Time" : "Wed Feb 15 08:55:31 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.8945658" ,
+  "Latitud" : "38.82626" ,
+  "Time" : "Wed Feb 15 08:33:11 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.6105227" ,
+  "Latitud" : "42.53872" ,
+  "Time" : "Wed Feb 15 08:03:31 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.7790594" ,
+  "Latitud" : "42.76818" ,
+  "Time" : "Tue Feb 14 07:56:12 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.81958" ,
+  "Latitud" : "37.548668" ,
+  "Time" : "Wed Feb 15 01:10:45 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.801505" ,
+  "Latitud" : "42.131557" ,
+  "Time" : "2023-02-15T07:04:04.697Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.6359968" ,
+  "Latitud" : "37.53771" ,
+  "Time" : "2023-02-14T07:12:53.464Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.758469" ,
+  "Latitud" : "42.034695" ,
+  "Time" : "Wed Feb 15 07:09:10 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-2.2902837" ,
+  "Latitud" : "36.871742" ,
+  "Time" : "Wed Feb 15 07:09:10 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.0529895" ,
+  "Latitud" : "43.170536" ,
+  "Time" : "Wed Feb 15 08:31:25 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-2.2203155" ,
+  "Latitud" : "37.296036" ,
+  "Time" : "Tue Feb 14 08:17:59 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.620125" ,
+  "Latitud" : "42.256794" ,
+  "Time" : "2023-02-15T07:44:41.696Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.855079" ,
+  "Latitud" : "39.472424" ,
+  "Time" : "2023-02-14T06:56:12.292Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.188712" ,
+  "Latitud" : "43.386345" ,
+  "Time" : "Wed Feb 15 08:30:30 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.3765075" ,
+  "Latitud" : "39.089355" ,
+  "Time" : "Wed Feb 15 08:01:37 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.301806" ,
+  "Latitud" : "43.33814" ,
+  "Time" : "2023-02-15T07:36:00.905Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.1092576" ,
+  "Latitud" : "39.975613" ,
+  "Time" : "Mon Oct 17 16:02:42 CEST 2022" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.897176" ,
+  "Latitud" : "42.347923" ,
+  "Time" : "2023-02-14T07:04:42.569Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.9507213" ,
+  "Latitud" : "40.48957" ,
+  "Time" : "Wed Feb 15 08:01:22 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.472391" ,
+  "Latitud" : "42.69022" ,
+  "Time" : "Wed Feb 15 08:55:37 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "0.00834" ,
+  "Latitud" : "40.10948" ,
+  "Time" : "Tue Feb 14 09:12:59 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.967739" ,
+  "Latitud" : "42.037952" ,
+  "Time" : "Tue Feb 14 09:12:59 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5354369" ,
+  "Latitud" : "38.346283" ,
+  "Time" : "Wed Feb 15 08:19:22 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.332769" ,
+  "Latitud" : "42.1808" ,
+  "Time" : "Wed Feb 15 08:19:22 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.323871" ,
+  "Latitud" : "43.3009" ,
+  "Time" : "Tue Feb 14 08:03:51 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.5130098" ,
+  "Latitud" : "40.393295" ,
+  "Time" : "2023-02-15T06:51:40.344Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.06417" ,
+  "Latitud" : "36.74751" ,
+  "Time" : "2023-02-14T14:25:20.314Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.4084" ,
+  "Latitud" : "40.38796" ,
+  "Time" : "2023-02-15T07:31:12.734Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.8658013" ,
+  "Latitud" : "36.517735" ,
+  "Time" : "2023-02-15T07:10:39.151Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.232428" ,
+  "Latitud" : "38.00335" ,
+  "Time" : "2023-02-14T20:30:05.605Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.43484" ,
+  "Latitud" : "40.24546" ,
+  "Time" : "2023-02-15T07:33:20.721Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.989737" ,
+  "Latitud" : "36.51215" ,
+  "Time" : "Wed Feb 15 08:38:16 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.5803137" ,
+  "Latitud" : "43.23791" ,
+  "Time" : "2023-02-15T07:00:36.879Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.7143126" ,
+  "Latitud" : "42.040066" ,
+  "Time" : "Wed Feb 15 08:31:24 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.254945" ,
+  "Latitud" : "37.61712" ,
+  "Time" : "2023-02-15T07:02:51.204Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.21483" ,
+  "Latitud" : "36.79651" ,
+  "Time" : "2023-02-15T07:02:54.271Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.120956" ,
+  "Latitud" : "40.374672" ,
+  "Time" : "Wed Feb 15 07:43:35 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.17407" ,
+  "Latitud" : "40.43757" ,
+  "Time" : "Tue Feb 14 09:04:18 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.3159544" ,
+  "Latitud" : "36.81707" ,
+  "Time" : "Tue Feb 14 09:04:18 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.564123" ,
+  "Latitud" : "39.067677" ,
+  "Time" : "2022-12-15T17:33:25.57Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5111501" ,
+  "Latitud" : "40.31746" ,
+  "Time" : "2023-02-15T07:48:47.371Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.4210877" ,
+  "Latitud" : "42.785015" ,
+  "Time" : "2023-02-15T07:40:09.7Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-17.805876" ,
+  "Latitud" : "28.82616" ,
+  "Time" : "Tue Feb 14 08:26:58 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.8644" ,
+  "Latitud" : "40.48753" ,
+  "Time" : "Wed Feb 15 08:36:07 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.8491497" ,
+  "Latitud" : "42.36264" ,
+  "Time" : "2023-01-19T09:26:53.492Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.7810643" ,
+  "Latitud" : "40.47412" ,
+  "Time" : "2023-02-15T07:30:10.586Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.6398595" ,
+  "Latitud" : "38.301746" ,
+  "Time" : "Tue Feb 14 11:33:37 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.233342" ,
+  "Latitud" : "41.522102" ,
+  "Time" : "Tue Feb 14 11:33:37 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-17.870176" ,
+  "Latitud" : "28.80571" ,
+  "Time" : "Wed Feb 15 08:53:31 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.766874" ,
+  "Latitud" : "42.720177" ,
+  "Time" : "Tue Feb 14 07:31:20 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.685829" ,
+  "Latitud" : "37.41941" ,
+  "Time" : "Wed Feb 15 08:04:04 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.2409196" ,
+  "Latitud" : "36.754124" ,
+  "Time" : "Wed Feb 15 08:04:04 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.0835233" ,
+  "Latitud" : "38.08107" ,
+  "Time" : "2023-02-15T07:01:20.354Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.00917" ,
+  "Latitud" : "39.193027" ,
+  "Time" : "Tue Feb 14 08:17:34 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.058379" ,
+  "Latitud" : "39.20544" ,
+  "Time" : "Wed Feb 15 06:50:57 CET 2023" ,
+  "Type" : "VehicleObstruction" ,
+  "Ocurrencia" : "brokenDownVehicle"
+},{ 
+  "Longitud" : "-3.3222127" ,
+  "Latitud" : "40.20935" ,
+  "Time" : "Tue Feb 14 08:30:10 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.695885" ,
+  "Latitud" : "42.500027" ,
+  "Time" : "Tue Feb 14 08:30:10 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.35643" ,
+  "Latitud" : "43.44059" ,
+  "Time" : "Tue Feb 14 12:36:49 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.5115323" ,
+  "Latitud" : "43.53554" ,
+  "Time" : "2023-02-14T07:27:01.743Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.387851" ,
+  "Latitud" : "39.465954" ,
+  "Time" : "2023-02-14T10:24:54.203Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.6079967" ,
+  "Latitud" : "40.54703" ,
+  "Time" : "2023-02-15T07:24:27.304Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.704236" ,
+  "Latitud" : "40.94564" ,
+  "Time" : "Wed Feb 15 08:01:20 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.796454" ,
+  "Latitud" : "37.967865" ,
+  "Time" : "2023-02-15T07:21:57.18Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5105026" ,
+  "Latitud" : "38.375755" ,
+  "Time" : "Tue Feb 14 08:32:22 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.0839171" ,
+  "Latitud" : "40.69763" ,
+  "Time" : "2023-02-15T07:55:31.22Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-2.1618884" ,
+  "Latitud" : "39.21474" ,
+  "Time" : "Wed Feb 15 08:00:51 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.978222" ,
+  "Latitud" : "43.50555" ,
+  "Time" : "2023-02-15T07:35:54.905Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-2.2149823" ,
+  "Latitud" : "39.41064" ,
+  "Time" : "Tue Feb 14 13:42:57 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.500041" ,
+  "Latitud" : "38.45929" ,
+  "Time" : "2023-02-15T07:26:18.374Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "0.1307069" ,
+  "Latitud" : "40.107807" ,
+  "Time" : "2023-01-03T17:39:30.099Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.06396" ,
+  "Latitud" : "38.030964" ,
+  "Time" : "Tue Feb 14 08:04:42 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.9440541" ,
+  "Latitud" : "40.457455" ,
+  "Time" : "Tue Feb 14 08:04:42 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.747109" ,
+  "Latitud" : "41.81529" ,
+  "Time" : "2023-02-15T07:03:33.377Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.1408213" ,
+  "Latitud" : "38.924046" ,
+  "Time" : "Tue Feb 14 08:27:08 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-7.359023" ,
+  "Latitud" : "43.55363" ,
+  "Time" : "Wed Feb 15 08:40:33 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.937125" ,
+  "Latitud" : "36.51525" ,
+  "Time" : "Tue Feb 14 09:00:18 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-2.2149823" ,
+  "Latitud" : "39.41064" ,
+  "Time" : "2023-02-15T07:36:03.904Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.75499" ,
+  "Latitud" : "41.51965" ,
+  "Time" : "Tue Feb 14 09:13:05 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.263021" ,
+  "Latitud" : "36.75282" ,
+  "Time" : "Wed Feb 15 00:50:22 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.59934" ,
+  "Latitud" : "40.3783" ,
+  "Time" : "Tue Feb 14 14:32:38 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.629609" ,
+  "Latitud" : "37.33433" ,
+  "Time" : "2023-02-15T07:42:23.658Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.9073331" ,
+  "Latitud" : "38.822117" ,
+  "Time" : "2023-02-15T07:38:16.74Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.507374" ,
+  "Latitud" : "39.41607" ,
+  "Time" : "Wed Feb 15 08:27:58 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.9440541" ,
+  "Latitud" : "40.457455" ,
+  "Time" : "2023-02-14T08:12:59.821Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.65169" ,
+  "Latitud" : "43.106117" ,
+  "Time" : "Wed Feb 15 07:15:04 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.346352" ,
+  "Latitud" : "38.765377" ,
+  "Time" : "2023-02-14T08:07:27.314Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.233761" ,
+  "Latitud" : "40.72711" ,
+  "Time" : "2023-02-14T07:30:10.192Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.19106" ,
+  "Latitud" : "42.4191" ,
+  "Time" : "Tue Feb 14 08:12:49 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.692692" ,
+  "Latitud" : "40.94514" ,
+  "Time" : "Tue Feb 14 08:35:12 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.301072" ,
+  "Latitud" : "43.321312" ,
+  "Time" : "2023-02-14T07:12:33.252Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.11799" ,
+  "Latitud" : "37.58437" ,
+  "Time" : "2023-02-15T07:26:33.374Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.4815933" ,
+  "Latitud" : "37.52624" ,
+  "Time" : "2023-02-15T07:01:37.354Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.0077754" ,
+  "Latitud" : "40.12112" ,
+  "Time" : "Tue Jan 24 17:03:05 CET 2023" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-5.6790986" ,
+  "Latitud" : "41.90416" ,
+  "Time" : "2023-02-15T07:00:51.879Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-15.592094" ,
+  "Latitud" : "27.98559" ,
+  "Time" : "Wed Feb 15 08:36:10 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.557915" ,
+  "Latitud" : "40.579056" ,
+  "Time" : "Wed Feb 15 08:36:10 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.6272783" ,
+  "Latitud" : "43.145718" ,
+  "Time" : "Tue Feb 14 15:09:19 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.2056141" ,
+  "Latitud" : "39.56242" ,
+  "Time" : "2023-02-15T07:30:30.827Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.674072" ,
+  "Latitud" : "43.093403" ,
+  "Time" : "Wed Feb 15 08:54:57 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.815453" ,
+  "Latitud" : "42.233006" ,
+  "Time" : "Wed Feb 15 08:54:57 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.0892315" ,
+  "Latitud" : "40.92499" ,
+  "Time" : "2023-02-15T07:03:36.377Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.829292" ,
+  "Latitud" : "40.135517" ,
+  "Time" : "Tue Feb 14 21:30:05 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "0.145718" ,
+  "Latitud" : "40.382637" ,
+  "Time" : "2023-02-15T07:09:34.141Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "0.24811" ,
+  "Latitud" : "40.46717" ,
+  "Time" : "2023-02-14T07:54:12.464Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.3936481" ,
+  "Latitud" : "40.47492" ,
+  "Time" : "Wed Feb 15 08:56:37 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.6882074" ,
+  "Latitud" : "40.850395" ,
+  "Time" : "2023-02-15T06:43:39.71Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.1140585" ,
+  "Latitud" : "43.383316" ,
+  "Time" : "2023-02-15T07:54:11.256Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.6331" ,
+  "Latitud" : "43.26803" ,
+  "Time" : "2023-02-14T21:20:12.045Z" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-4.6629004" ,
+  "Latitud" : "41.005886" ,
+  "Time" : "Wed Feb 15 08:42:15 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.90762" ,
+  "Latitud" : "37.65524" ,
+  "Time" : "2023-02-14T07:32:29.776Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.6355693" ,
+  "Latitud" : "37.540405" ,
+  "Time" : "Thu Jan 05 22:29:40 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.728047" ,
+  "Latitud" : "42.60123" ,
+  "Time" : "2023-02-15T07:04:01.697Z" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-0.11841" ,
+  "Latitud" : "42.61571" ,
+  "Time" : "2023-02-15T07:31:25.89Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-15.64014" ,
+  "Latitud" : "28.0508" ,
+  "Time" : "Wed Feb 15 08:00:05 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.6829796" ,
+  "Latitud" : "40.843945" ,
+  "Time" : "Wed Feb 15 08:00:05 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.6105227" ,
+  "Latitud" : "42.53872" ,
+  "Time" : "2023-02-15T07:00:34.375Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.1149318" ,
+  "Latitud" : "40.61207" ,
+  "Time" : "Tue Feb 14 07:31:22 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5555277" ,
+  "Latitud" : "40.44926" ,
+  "Time" : "Tue Feb 14 07:31:22 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.7802272" ,
+  "Latitud" : "36.75186" ,
+  "Time" : "Sat Apr 09 13:47:08 CEST 2022" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-5.80229" ,
+  "Latitud" : "41.5234" ,
+  "Time" : "2023-02-15T07:56:45.234Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-6.033644" ,
+  "Latitud" : "43.395515" ,
+  "Time" : "2023-02-15T06:05:22.727Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.7802272" ,
+  "Latitud" : "36.75186" ,
+  "Time" : "2023-02-14T07:04:51.569Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.5056605" ,
+  "Latitud" : "38.385094" ,
+  "Time" : "Tue Feb 14 08:05:06 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.5549582" ,
+  "Latitud" : "37.72924" ,
+  "Time" : "Wed Feb 15 08:30:27 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.3480947" ,
+  "Latitud" : "36.743725" ,
+  "Time" : "Tue Feb 14 22:20:12 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.7413363" ,
+  "Latitud" : "42.838875" ,
+  "Time" : "Tue Feb 14 22:18:18 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-1.4831209" ,
+  "Latitud" : "37.52486" ,
+  "Time" : "2023-02-14T07:27:08.743Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.989737" ,
+  "Latitud" : "36.51215" ,
+  "Time" : "Tue Feb 14 09:00:21 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-7.954715" ,
+  "Latitud" : "42.33039" ,
+  "Time" : "2023-02-14T21:02:30.151Z" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-3.5207508" ,
+  "Latitud" : "36.73354" ,
+  "Time" : "Tue Feb 14 09:13:08 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-0.3186757" ,
+  "Latitud" : "39.676304" ,
+  "Time" : "Tue Feb 14 09:13:08 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.5212083" ,
+  "Latitud" : "40.395046" ,
+  "Time" : "2023-01-17T23:51:46.391Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.1750975" ,
+  "Latitud" : "40.427956" ,
+  "Time" : "2023-02-15T07:41:22.574Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-5.741334" ,
+  "Latitud" : "41.481667" ,
+  "Time" : "2023-02-14T07:00:42.607Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-3.2422514" ,
+  "Latitud" : "40.34257" ,
+  "Time" : "2023-02-15T07:33:02.573Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-1.4407645" ,
+  "Latitud" : "37.545086" ,
+  "Time" : "2023-02-14T07:27:05.743Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-8.845118" ,
+  "Latitud" : "42.686867" ,
+  "Time" : "2023-02-15T07:01:37.467Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.21483" ,
+  "Latitud" : "36.79651" ,
+  "Time" : "2023-02-15T07:00:44.879Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.4144902" ,
+  "Latitud" : "38.769264" ,
+  "Time" : "2022-08-18T18:42:00.452Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-8.252038" ,
+  "Latitud" : "43.30131" ,
+  "Time" : "Wed Jan 25 09:42:00 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.053276" ,
+  "Latitud" : "38.030552" ,
+  "Time" : "Wed Jan 25 09:42:00 CET 2023" ,
+  "Type" : "WeatherRelatedRoadConditions" ,
+  "Ocurrencia" : "ice"
+},{ 
+  "Longitud" : "-7.3511653" ,
+  "Latitud" : "43.55069" ,
+  "Time" : "Thu Aug 18 01:25:00 CEST 2022" ,
+  "Type" : "EnvironmentalObstruction" ,
+  "Ocurrencia" : "rockfalls"
+},{ 
+  "Longitud" : "-4.0786815" ,
+  "Latitud" : "43.24892" ,
+  "Time" : "2023-02-14T23:42:21.697Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-4.6559315" ,
+  "Latitud" : "40.998657" ,
+  "Time" : "2023-02-15T07:33:27.721Z" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "0.0022459" ,
+  "Latitud" : "38.831066" ,
+  "Time" : "Tue Feb 14 13:43:00 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "0.3323307" ,
+  "Latitud" : "40.458622" ,
+  "Time" : "2023-02-14T17:20:05.162Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-2.2902837" ,
+  "Latitud" : "36.871742" ,
+  "Time" : "Tue Feb 14 08:04:48 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-4.44315" ,
+  "Latitud" : "40.34558" ,
+  "Time" : "Tue Feb 14 15:09:53 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.9650167" ,
+  "Latitud" : "38.12398" ,
+  "Time" : "Tue Feb 07 20:39:31 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.55935" ,
+  "Latitud" : "40.58535" ,
+  "Time" : "2023-02-15T07:37:28.978Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-6.235985" ,
+  "Latitud" : "37.97237" ,
+  "Time" : "Tue Feb 14 07:41:44 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-15.593715" ,
+  "Latitud" : "27.99319" ,
+  "Time" : "Wed Feb 15 01:41:52 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-0.100622" ,
+  "Latitud" : "39.98192" ,
+  "Time" : "Wed Feb 15 07:40:28 CET 2023" ,
+  "Type" : "GeneralObstruction" ,
+  "Ocurrencia" : "objectOnTheRoad"
+},{ 
+  "Longitud" : "-3.8139894" ,
+  "Latitud" : "40.986492" ,
+  "Time" : "Wed Feb 15 08:02:32 CET 2023" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+},{ 
+  "Longitud" : "-5.80229" ,
+  "Latitud" : "41.5234" ,
+  "Time" : "2023-02-10T08:58:13.8Z" ,
+  "Type" : "MaintenanceWorks" ,
+  "Ocurrencia" : "maintenanceWork"
+}]
